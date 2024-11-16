@@ -38,3 +38,13 @@ _...and so on up to 100 days._
    ```bash
    git clone https://github.com/Piyush-Garg-47/100-Days-of-python.git
 
+
+# main repository comments--
+--** Git Status: **
+--** Git add .: **
+--** Git commit -m "your message": **
+--** Git push : **
+--** Git push origin master : **
+--** Git push -u origin main: **
+--** Git log: **
+
