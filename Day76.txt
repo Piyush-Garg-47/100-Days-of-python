@@ -1,0 +1,15 @@
+
+
+Write a program to manupulate the pdf file by using pyPDF , 
+
+your program should be abe to merge and menupulate the pdf file  in to a single pdf 
+
+you are welcome to add more functionality 
+
+pyPDF is free and opensource pure python pdf library capable of spliting croping merging and editing 
+and transforming pages to pdf file 
+
+it can also add custom data  , viewing option and password to pdf files  
+
+pyPDF can retrive the text and meta data from the pdfs as well 
+
