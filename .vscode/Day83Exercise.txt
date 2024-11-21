@@ -1,0 +1,13 @@
+Write a program to pronounce the name of list of names 
+
+if you are given a list as follow 
+
+l = ["rahul" , "piyush" , "amit"]
+
+your program should pronounce 
+
+shout out to rahul 
+
+shout out to piyush 
+
+shout out to amit 
