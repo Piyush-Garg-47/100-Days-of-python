@@ -1,0 +1,1 @@
+print("today i was not studied so i only maintaing the streek")
