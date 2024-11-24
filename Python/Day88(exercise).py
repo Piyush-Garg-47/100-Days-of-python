@@ -1,3 +1,5 @@
+print("the terminal was not working !!")
+
 import win32com.client
 
 def pronounce_names(names):
